@@ -4,12 +4,12 @@ Practical and reliable solutions from Zyphe Dev.
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Zyphe+Dev+-+Innovative+Web+Solutions" alt="Zyphe Dev Banner">
+  <img src="https://i.postimg.cc/qRdsTWGn/Navy-and-White-Simple-Website-Twitter-Header-3-1.png">
 </p>
 
 <h1 align="center">🌐 Zyphe Dev</h1>
 <p align="center">
-  <b>Delivering high-quality, scalable, and innovative web solutions worldwide.</b>
+  <b>Delivering high-quality, scalable, and innovative software solutions worldwide.</b>
 </p>
 
 ---
