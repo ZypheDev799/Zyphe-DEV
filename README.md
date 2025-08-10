@@ -1,5 +1,5 @@
-# Zyphe-DEV
-Practical and reliable solutions from Zyphe Dev.
+# 
+<h2 align="center">Practical and reliable solutions from Zyphe Dev.</h2>
 
 
 <!-- Banner -->
@@ -7,7 +7,7 @@ Practical and reliable solutions from Zyphe Dev.
   <img src="https://i.postimg.cc/qRdsTWGn/Navy-and-White-Simple-Website-Twitter-Header-3-1.png">
 </p>
 
-<h1 align="center">🌐 Zyphe Dev</h1>
+<h1 align="center">🌐🌐🌐🌐🌐🌐🌐🌐</h1>
 <p align="center">
   <b>Delivering high-quality, scalable, and innovative software solutions worldwide.</b>
 </p>
@@ -50,17 +50,13 @@ We transform complex ideas into **elegant, functional solutions** — ensuring e
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" height="180px">
-</p>
+
 
 ---
 
 ## 📩 Connect With Us
 <p>
-  <a href="mailto:contact@zyphe.dev"><img src="https://img.shields.io/badge/Email-contact%40zyphe.dev-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zyphe.dev.core@gmail.com"><img src="https://img.shields.io/badge/Email-contact%40zyphe.dev-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Zyphe%20Dev-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Website-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
