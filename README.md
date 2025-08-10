@@ -4,7 +4,7 @@ Practical and reliable solutions from Zyphe Dev.
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/qRdsTWGn/Navy-and-White-Simple-Website-Twitter-Header-3-1.png">
+  <img src="https://i.postimg.cc/wx1mrqzP/Navy-and-White-Simple-Website-Twitter-Header-3-1-1.jpg">
 </p>
 
 <h1 align="center">🌐 Zyphe Dev</h1>
